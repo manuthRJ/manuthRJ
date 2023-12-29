@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋 I'm Manuth Rajarathna.
+
+Currently, I'm earning my skills in AI, ML, Robotics, Cyber Security and Software Development.
+
+I'm currently working on an AI based crowd traffic montioring system. 
+
+#Working on myself, for myself, by myself 🔥
+
+PS: My profile will be updated so sooooon!!! 👽
 
 <!--
 **manuthRJ/manuthRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/manuthRJ/manuthRJ/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/manuthRJ/manuthRJ/blob/output/github-contribution-grid-snake.gif)-->
