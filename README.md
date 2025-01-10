@@ -1,9 +1,7 @@
-<div style="text-align: center;">
-  
-# 💫 About Me:
-⚡ I'm driven by a vision to bridge innovation and customer satisfaction by creating impactful solutions through continuous learning and dedication.<br>🌱 I’m currently learning JavaScript - Node.js, Express.js and Angular.js<br>💬 Ask me about Start-ups, Web Development, Python, Robotics<br>
-
-</div>
+<center>
+# 💫 About Me
+⚡ I'm driven by a vision to bridge innovation and customer satisfaction through impactful solutions.
+</center>
 
 <div style="text-align: center;">
   
