@@ -1,6 +1,8 @@
 <center>
+  
 # 💫 About Me
 ⚡ I'm driven by a vision to bridge innovation and customer satisfaction through impactful solutions.
+
 </center>
 
 <div style="text-align: center;">
