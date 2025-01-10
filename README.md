@@ -3,6 +3,7 @@
 # 💫 About Me:
 ⚡ I'm driven by a vision to bridge innovation and customer satisfaction by creating impactful solutions through continuous learning and dedication.<br>🌱 I’m currently learning JavaScript - Node.js, Express.js and Angular.js<br>💬 Ask me about Start-ups, Web Development, Python, Robotics<br>
 
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuth-rajarathna)
 
@@ -26,4 +27,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=manuthRJ&icon=7&color=13)](https://visitcount.itsvg.in)
 
-</div>
+
