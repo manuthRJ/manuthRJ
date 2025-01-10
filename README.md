@@ -1,6 +1,6 @@
+<div style="text-align: center;">
 # 💫 About Me:
-🌱 I’m currently learning JavaScript - Node.js, Express.js and Angular.js<br>💬 Ask me about Start-ups, Web Development, Python, Robotics<br>⚡ I'm driven by a vision to bridge innovation and customer satisfaction by creating impactful solutions through continuous learning and dedication.
-
+⚡ I'm driven by a vision to bridge innovation and customer satisfaction by creating impactful solutions through continuous learning and dedication.<br>🌱 I’m currently learning JavaScript - Node.js, Express.js and Angular.js<br>💬 Ask me about Start-ups, Web Development, Python, Robotics<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuth-rajarathna) 
@@ -17,6 +17,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manuthRJ&limit=5&theme=dark&combine_all_yearly_contributions=true)
